@@ -1,0 +1,304 @@
+﻿  DelayOutPut.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\DelayOutPut.c(33,35): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  Effects.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\DelayOutPut.c(57,85): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Effects.c(378,19): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Effects.c(399,19): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+  FileUtils.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Effects.c(681,41): warning C4267: '=': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+  Interrupt.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(124,80): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(354,12): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(355,12): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(370,79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(373,24): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(462,14): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(463,14): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(480,79): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(483,25): warning C4244: 'function': conversion from 'float' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(1607,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  MADDriver.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Interrupt.c(1623,32): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+  MainDriver.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(62,16): warning C4244: '=': conversion from 'long' to 'char', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(60,1): warning C4267: 'initializing': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(467,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(513,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(1183,70): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(1873,94): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(1900,99): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(1911,24): warning C4244: '=': conversion from 'float' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2053,24): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2106,25): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2168,25): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2239,24): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2326,26): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2382,26): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2455,27): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2500,28): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2600,22): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2614,22): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2641,21): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2674,21): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2687,21): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2699,22): warning C4267: 'function': conversion from 'size_t' to 'long', possible loss of data
+  MIDI-Hardware-Stub.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MainDriver.c(2927,18): warning C4244: '=': conversion from 'short' to 'MADByte', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+  MyDebugStr.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+  OutPut8.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+  realft.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(315,147): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(317,59): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(364,37): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(367,37): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(372,33): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(375,33): warning C4244: '=': conversion from 'double' to 'char', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(507,146): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(553,37): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(556,37): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(561,33): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+  stub-VSTPlugIn.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\realft.c(564,33): warning C4244: '=': conversion from 'double' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+  TickRemover.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+  Win-DirectSound.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-DirectSound.c(296,128): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-DirectSound.c(319,82): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-DirectSound.c(319,194): warning C4267: 'function': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-DirectSound.c(358,106): warning C4267: 'function': conversion from 'size_t' to 'UINT', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-DirectSound.c(386,25): warning C4047: 'function': 'DWORD_PTR' differs in levels of indirection from 'MADDriverRec *'
+  Win-PlugImport.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-DirectSound.c(386,25): warning C4024: 'timeSetEvent': different types for formal and actual parameter 4
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-PlugImport.c(268,1): warning C4028: formal parameter 2 different from declaration
+  Win-WaveDriver.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-PlugImport.c(334,46): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-WaveDriver.c(188,73): warning C4267: '=': conversion from 'size_t' to 'DWORD', possible loss of data
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\Win-WaveDriver.c(259,109): warning C4311: 'type cast': pointer truncation from 'void *' to 'unsigned long'
+     Creating library D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\PLAYERPRO.lib and object D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\PLAYERPRO.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 192 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  PlayerPRO.vcxproj -> D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\PLAYERPRO.dll

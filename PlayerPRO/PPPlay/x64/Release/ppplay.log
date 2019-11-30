@@ -1,0 +1,20 @@
+﻿  PPPlay.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.Source\RDriver.h(955,9): warning C4068: unknown pragma
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 7 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ppplay.vcxproj -> D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\ppplay.exe

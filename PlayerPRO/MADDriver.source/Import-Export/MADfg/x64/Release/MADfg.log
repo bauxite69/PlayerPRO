@@ -1,0 +1,22 @@
+﻿  MADfg.c
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(41,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(65,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(127,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(222,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MAD.h(294,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(263,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(655,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(657,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(707,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(743,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(770,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(914,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(943,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\RDriver.h(955,9): warning C4068: unknown pragma
+D:\Apps\Visual Studio - Source\PlayerPRO\PlayerPRO\MADDriver.source\MADFileUtils.h(318,17): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+     Creating library D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\MADfg.lib and object D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\MADfg.exp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 14 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  MADfg.vcxproj -> D:\Apps\Visual Studio - Source\PlayerPRO\x64\Release\MADfg.PLG
