@@ -25,6 +25,7 @@
     <ProjectGuid>{D52E5EC2-7561-4A25-B950-DA488EBD43B4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>PPPlug</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
   </PropertyGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
@@ -76,6 +77,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
     <LinkIncremental>true</LinkIncremental>
     <TargetExt>.PLG</TargetExt>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\plugins</OutDir>
   </PropertyGroup>
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
     <LinkIncremental>false</LinkIncremental>
@@ -84,6 +86,7 @@
   <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
     <LinkIncremental>false</LinkIncremental>
     <TargetExt>.PLG</TargetExt>
+    <OutDir>$(SolutionDir)$(Platform)\$(Configuration)\plugins</OutDir>
   </PropertyGroup>
   <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
     <ClCompile>
